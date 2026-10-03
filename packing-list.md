@@ -10,3 +10,4 @@
 - Phone charger
 - Power bank
 - Slippers
+- Plastic bag for wet clothes
