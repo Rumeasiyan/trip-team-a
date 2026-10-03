@@ -8,3 +8,4 @@
 - Umbrella
 - Snacks
 - Phone charger
+- Power bank
