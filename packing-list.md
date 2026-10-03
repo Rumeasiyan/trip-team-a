@@ -11,3 +11,4 @@
 - Power bank
 - Slippers
 - Plastic bag for wet clothes
+- First-aid kit
