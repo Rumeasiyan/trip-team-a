@@ -14,3 +14,4 @@
 - First-aid kit
 - Spare mask
 - Torch
+- Hand sanitiser
