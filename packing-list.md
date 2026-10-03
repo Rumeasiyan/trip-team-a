@@ -12,3 +12,4 @@
 - Slippers
 - Plastic bag for wet clothes
 - First-aid kit
+- Spare mask
