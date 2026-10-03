@@ -9,3 +9,4 @@
 - Snacks
 - Phone charger
 - Power bank
+- Slippers
