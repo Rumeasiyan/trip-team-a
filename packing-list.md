@@ -18,3 +18,4 @@
 - Small mat to sit on
 - Rain jacket
 - Sunglasses
+- Reusable bag
