@@ -11,4 +11,4 @@
 | 13.00 | Lunch |
 | 15.00 | Beach games |
 | 17.00 | Bus leaves for the office |
-| 20.00 | Back at the office |
+| 19.30 | Back at the office |
