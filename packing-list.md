@@ -15,3 +15,4 @@
 - Spare mask
 - Torch
 - Hand sanitiser
+- Small mat to sit on
