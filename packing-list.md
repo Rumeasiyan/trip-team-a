@@ -4,3 +4,4 @@
 - Cap or hat
 - Sunscreen
 - Towel
+- Change of clothes
