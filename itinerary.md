@@ -1,8 +1,8 @@
 # Itinerary
 
-**Meeting point: the office main gate.**
+Meeting point: TODO
 
-| Time | What |
+| Time | Plan |
 |---|---|
 | 06.00 | Bus leaves the office |
 | 08.30 | Breakfast stop |
