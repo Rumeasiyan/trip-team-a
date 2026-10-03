@@ -3,3 +3,4 @@
 - Water bottle
 - Cap or hat
 - Sunscreen
+- Towel
