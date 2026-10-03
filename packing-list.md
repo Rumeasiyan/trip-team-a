@@ -6,3 +6,4 @@
 - Towel
 - Change of clothes
 - Umbrella
+- Snacks
