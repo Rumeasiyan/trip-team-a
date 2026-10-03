@@ -17,3 +17,4 @@
 - Hand sanitiser
 - Small mat to sit on
 - Rain jacket
+- Sunglasses
