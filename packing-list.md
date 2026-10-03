@@ -5,3 +5,4 @@
 - Sunscreen
 - Towel
 - Change of clothes
+- Umbrella
