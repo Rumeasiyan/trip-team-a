@@ -2,8 +2,8 @@
 
 | Item | Price (Rs.) |
 |---|---|
-| Tea | 60 |
-| Coffee | 120 |
+| Tea | 70 |
+| Coffee | 130 |
 | String hoppers | 150 |
 | Rice and curry | 350 |
 | Vadai | 50 |
