@@ -20,3 +20,4 @@
 - Sunglasses
 - Reusable bag
 - Earphones
+- Notebook and pen
