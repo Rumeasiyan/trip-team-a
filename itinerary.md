@@ -12,3 +12,4 @@ Meeting point: TODO
 | 15.00 | Beach games |
 | 17.00 | Bus leaves for the office |
 | 19.30 | Back at the office |
+- Idea: a boat ride at 11.00 (dropped)
