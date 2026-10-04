@@ -19,3 +19,4 @@
 - Rain jacket
 - Sunglasses
 - Reusable bag
+- Earphones
